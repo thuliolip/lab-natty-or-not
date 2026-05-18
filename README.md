@@ -23,16 +23,21 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Gerar uma foto simples que pudesse ser confundida com a realidade.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Utilizei, basicamente, o Gemini e o Deepseek. O Deepseek me ajudou a melhorar o prompt e o Gemini gerou a imagem. Fiquei bem satisfeito com o reusltado
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Optei por um uso do prompt em inglês
+"Ultrarealistic painting, 8K, raw photo quality. Natural daylight, subtle skin texture, fabric fibers visible. Shallow depth of field, slight chromatic aberration, film grain. No brushstrokes, no painterly effects. Subject: elderly fisherman mending a net by a weathered wooden shack, seaside, late afternoon sun casting long shadows. Canon R5, 50mm lens, f/1.8."
+
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Imagem gerada
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/a9b5b745-0aee-46cd-832e-abd25bee6fb1" />
+
+https://gemini.google.com/share/c4ea1eae3e1d
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
